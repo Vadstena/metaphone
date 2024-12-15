@@ -1,0 +1,44 @@
+0	0	[^G]	=
+0	1	G	eps
+0	4	eps	eps	80.0
+1	1	G	G
+1	2	eps	G
+1	3	H	eps
+1	4	eps	G	80.0
+1	7	N	eps
+2	0	[^NH]	=
+3	1	G	H
+3	27	eps	H
+3	26	eps	G	80.0
+5	1	G	eps
+5	0	[^G]	=
+6	5	eps	N
+7	4	eps	N	80.0
+7	6	eps	G	40.0
+7	10	E	eps
+8	1	eps	E
+9	8	eps	N
+10	9	G	G
+10	11	eps	G	20.0
+10	15	eps	G
+10	19	D	eps
+11	12	eps	N
+12	4	eps	E
+13	0	[^GD]	=
+14	13	eps	E
+15	14	eps	N
+16	1	eps	D
+17	16	eps	E
+18	17	eps	N
+19	18	G	G
+19	20	eps	N	10.0
+19	25	eps	G	5.0
+20	21	eps	E
+21	4	eps	D
+22	0	[^G]	=
+23	22	eps	D
+24	23	eps	E
+25	24	eps	N
+26	4	eps	H
+27	0	[^G]	=
+4

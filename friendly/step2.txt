@@ -1,0 +1,31 @@
+0	6	eps	eps	2.0
+0	1	K	eps
+1	6	N	N
+1	6	eps	K	2.0
+0	2	G	eps
+2	6	N	N
+2	6	eps	G	2.0
+0	3	P	eps
+3	6	N	N
+3	6	eps	P	2.0
+0	4	A	eps
+4	6	E	E
+4	6	eps	A	2.0
+0	5	W	eps
+5	6	R	R
+5	6	eps	W	2.0
+6	6	[^M]	=
+6	6	eps	eps	2.0
+6	7	M	eps
+7	6	eps	M	2.0
+7	8	B	M
+8	6	eps	eps
+8	9	eps	B
+9	7	M	eps
+9	6	[^M]	=
+1	7	M	K
+2	7	M	G
+3	7	M	P
+4	7	M	A
+5	7	M	W
+6

@@ -1,0 +1,5 @@
+0	1	symbol =
+1	1	[^AEIOU]	=
+1	1	[AEIOU]	eps
+1	1	eps	eps	1.0
+1

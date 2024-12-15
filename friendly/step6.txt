@@ -1,0 +1,27 @@
+0	0	[^AEIOUCPQS]	=
+0	0	Q	K
+0	0	eps	eps	80.0
+0	1	vowel	=
+0	4	C	eps
+0	6	P	eps
+0	7	S	eps
+1	0	eps	eps	4
+1	1	vowel	=
+1	2	H	eps
+2	3	eps	H
+2	0	eps	eps	1.0
+3	1	vowel	=
+4	0	K	K
+4	5	eps	C
+5	0	eps	eps	1.0
+6	0	H	F
+6	0	eps	P	1.0
+7	0	eps	S	1.0
+7	8	H	X
+7	9	I	X
+8	0	eps	H
+9	10	O	I
+9	11	A	I
+10	0	eps	O
+11	0	eps	A
+0

@@ -1,0 +1,83 @@
+0	0	eps	eps	2.0
+0	1	A	A
+1	1	A	eps
+1	0	eps	eps	2.0
+0	2	B	B
+2	2	B	eps
+2	0	eps	eps	2.0
+0	3	C	C
+3	3	C	C
+3	0	eps	eps	2.0
+0	4	D	D
+4	4	D	eps
+4	0	eps	eps	2.0
+0	5	E	E
+5	5	E	eps
+5	0	eps	eps	2.0
+0	6	F	F
+6	6	F	eps
+6	0	eps	eps	2.0
+0	7	G	G
+7	7	G	eps
+7	0	eps	eps	2.0
+0	8	H	H
+8	8	H	eps
+8	0	eps	eps	2.0
+0	9	I	I
+9	9	I	eps
+9	0	eps	eps	2.0
+0	10	J	J
+10	10	J	eps
+10	0	eps	eps	2.0
+0	11	K	K
+11	11	K	eps
+11	0	eps	eps	2.0
+0	12	L	L
+12	12	L	eps
+12	0	eps	eps	2.0
+0	13	M	M
+13	13	M	eps
+13	0	eps	eps	2.0
+0	14	N	N
+14	14	N	eps
+14	0	eps	eps	2.0
+0	15	O	O
+15	15	O	eps
+15	0	eps	eps	2.0
+0	16	P	P
+16	16	P	eps
+16	0	eps	eps	2.0
+0	17	Q	Q
+17	17	Q	eps
+17	0	eps	eps	2.0
+0	18	R	R
+18	18	R	eps
+18	0	eps	eps	2.0
+0	19	S	S
+19	19	S	eps
+19	0	eps	eps	2.0
+0	20	T	T
+20	20	T	eps
+20	0	eps	eps	2.0
+0	21	U	U
+21	21	U	eps
+21	0	eps	eps	2.0
+0	22	V	V
+22	22	V	eps
+22	0	eps	eps	2.0
+0	23	X	X
+23	23	X	eps
+23	0	eps	eps	2.0
+0	24	Y	Y
+24	24	Y	eps
+24	0	eps	eps	2.0
+0	25	W	W
+25	25	W	eps
+25	0	eps	eps	2.0
+0	26	Z	Z
+26	26	Z	eps
+26	0	eps	eps	2.0
+0	27	0	0
+27	27	0	eps
+27	0	eps	eps	2.0
+0

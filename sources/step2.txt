@@ -1,0 +1,81 @@
+0	6	eps	eps	2.0
+0	1	K	eps
+1	6	N	N
+1	6	eps	K	2.0
+0	2	G	eps
+2	6	N	N
+2	6	eps	G	2.0
+0	3	P	eps
+3	6	N	N
+3	6	eps	P	2.0
+0	4	A	eps
+4	6	E	E
+4	6	eps	A	2.0
+0	5	W	eps
+5	6	R	R
+5	6	eps	W	2.0
+6	6	A	A
+6	6	E	E
+6	6	I	I
+6	6	O	O
+6	6	U	U
+6	6	B	B
+6	6	C	C
+6	6	D	D
+6	6	F	F
+6	6	G	G
+6	6	H	H
+6	6	J	J
+6	6	K	K
+6	6	L	L
+6	6	N	N
+6	6	P	P
+6	6	Q	Q
+6	6	R	R
+6	6	S	S
+6	6	T	T
+6	6	V	V
+6	6	W	W
+6	6	X	X
+6	6	Y	Y
+6	6	Z	Z
+6	6	0	0
+6	6	eps	eps	2.0
+6	7	M	eps
+7	6	eps	M	2.0
+7	8	B	M
+8	6	eps	eps
+8	9	eps	B
+9	7	M	eps
+9	6	A	A
+9	6	E	E
+9	6	I	I
+9	6	O	O
+9	6	U	U
+9	6	B	B
+9	6	C	C
+9	6	D	D
+9	6	F	F
+9	6	G	G
+9	6	H	H
+9	6	J	J
+9	6	K	K
+9	6	L	L
+9	6	N	N
+9	6	P	P
+9	6	Q	Q
+9	6	R	R
+9	6	S	S
+9	6	T	T
+9	6	V	V
+9	6	W	W
+9	6	X	X
+9	6	Y	Y
+9	6	Z	Z
+9	6	0	0
+1	7	M	K
+2	7	M	G
+3	7	M	P
+4	7	M	A
+5	7	M	W
+6

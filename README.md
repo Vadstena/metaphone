@@ -123,4 +123,5 @@ sudo ldconfig
 ## Authors
 
 Joao Silva
+
 Scripts [compact2fst.py](compact2fst.py) and [word2fst.py](word2fst.py) were provided by the teachers.
